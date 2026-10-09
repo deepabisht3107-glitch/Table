@@ -1,0 +1,77 @@
+.hea {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;}
+.ccc{
+    position: relative;
+    left:690px;
+}
+.circle{
+    border:3px solid black;
+    width: 30px;
+    height: 30px;
+    border-radius:50%;
+    background-color: white;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card1 {
+    border: 2px solid black;
+    border-radius: 5px;
+    width: 300px;
+}
+
+.card2 {
+    border: 2px solid black;
+    border-radius: 5px;
+    width: 300px;
+}
+
+.card3 {
+    border: 2px solid black;
+    border-radius: 5px;
+    width: 300px;
+}
+
+img {
+    width: 270px;
+    display: flex;
+    position: relative;
+    left: 10px;
+    top: 10px;
+}
+
+div {
+    box-shadow: 5px 5px 20px rgb(79, 76, 76);
+}
+
+div h2 {
+    position: relative;
+    left: 10px;
+}
+
+div h3 {
+    position: relative;
+    left: 10px;
+}
+
+div h4 {
+    position: relative;
+    left: 10px;
+}
+
+div p {
+    position: relative;
+    left: 10px;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    align-items: flex-start;
+    justify-content: center;
+}
